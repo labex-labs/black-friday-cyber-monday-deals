@@ -392,6 +392,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 one-time · Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
 | [CiteWing](https://citewing.com/) | 36% off Pro; 50% off submissions | $95.00 / month · Pro | — |
