@@ -62,6 +62,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Proton Pass](https://proton.me/pass/black-friday) | Up to 60% off | $23.88 / year · Plus, first year | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 70% off · Plus, first year | $35.88 / first year · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% off | $101.55 / 5 years | — |
+| [Scanify](https://scanify.to/pricing) | 50% off · Lifetime Pro | $14.50 · lifetime | `BLACKFRIDAY` |
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
 
