@@ -205,6 +205,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% off | $39.00 · one-time | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% off | $3.99 · one-time | — |
 | [Picmal](https://picmal.app/pricing) | 50% off | From $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 40% off | Personal $17.40 · Plus $29.40 · one-time | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% off · annual | From $42.48 / year | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% off | $9.80 · one-time | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% off | $75.60 / year | `BLACKFRIDAY26` |
