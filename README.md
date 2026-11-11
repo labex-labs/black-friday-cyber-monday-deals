@@ -127,6 +127,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [HostPapa](https://www.hostpapa.com/deals/) | Up to 90% off | From $1.25 / month · 3-year billing | — |
 | [Interdata](https://interdata.vn/blackfriday/) | Up to 75% off | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% off | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans · 50% off first 3 months on monthly plans | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% off | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
