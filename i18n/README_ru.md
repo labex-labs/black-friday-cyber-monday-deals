@@ -221,7 +221,7 @@
 | [ScreenVerb](https://screenverb.com/pricing) | Скидка 50% | $19.50 · бессрочно | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | Скидка 62% на кредиты; 64% на Pro за год | $99.00 / 20,000 кредитов; $129.00 / первый год | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Скидка до 40% | $23.40 · бессрочно | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | Скидка 50% | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | Скидка 50% — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | Скидка до 77% | $139.00 · разовый платёж | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | Бессрочное предложение | $19.00 · разовый платёж | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Скидка 50% | $74.50 · бессрочно | `BLACKFRIDAY26` |

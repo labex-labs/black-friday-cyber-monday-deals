@@ -221,7 +221,7 @@
 | [ScreenVerb](https://screenverb.com/pricing) | 立减 50% | $19.50 · 终身版 | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | 积分包立减 62%；Pro 年付立减 64% | $99.00 / 20,000 积分; $129.00 / 首年 | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | 最高减免 40% | $23.40 · 终身版 | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | 立减 50% | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | 立减 50% — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | 最高减免 77% | $139.00 · 一次性购买 | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | 终身版优惠 | $19.00 · 一次性购买 | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | 立减 50% | $74.50 · 终身版 | `BLACKFRIDAY26` |
