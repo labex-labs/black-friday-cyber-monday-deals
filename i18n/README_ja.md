@@ -221,7 +221,7 @@
 | [ScreenVerb](https://screenverb.com/pricing) | 50% 割引 | $19.50 · 買い切り・無期限 | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | クレジットが 62% 割引、Pro 年払いが 64% 割引 | $99.00 / 20,000 クレジット; $129.00 / 初年度 | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | 最大 40% 割引 | $23.40 · 買い切り・無期限 | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | 50% 割引 | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | 50% 割引 — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | 最大 77% 割引 | $139.00 · 一括払い | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | 無期限版の特典 | $19.00 · 一括払い | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | 50% 割引 | $74.50 · 買い切り・無期限 | `BLACKFRIDAY26` |

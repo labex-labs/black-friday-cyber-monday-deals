@@ -221,7 +221,7 @@ Lerne Linux, DevOps, Cybersicherheit und Cloud-Technologien mit praktischen Übu
 | [ScreenVerb](https://screenverb.com/pricing) | 50% Rabatt | $19.50 · dauerhafte Lizenz | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | 62% Rabatt auf Guthaben; 64% auf Pro jährlich | $99.00 / 20,000 Guthaben; $129.00 / erstes Jahr | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Bis zu 40% Rabatt | $23.40 · dauerhafte Lizenz | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | 50% Rabatt | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | 50% Rabatt — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | Bis zu 77% Rabatt | $139.00 · Einmalzahlung | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | Angebot mit dauerhafter Lizenz | $19.00 · Einmalzahlung | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | 50% Rabatt | $74.50 · dauerhafte Lizenz | `BLACKFRIDAY26` |

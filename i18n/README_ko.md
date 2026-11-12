@@ -221,7 +221,7 @@
 | [ScreenVerb](https://screenverb.com/pricing) | 50% 할인 | $19.50 · 평생 이용 | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | 크레딧 62% 할인; Pro 연간 64% 할인 | $99.00 / 20,000 크레딧; $129.00 / 첫해 | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | 최대 40% 할인 | $23.40 · 평생 이용 | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | 50% 할인 | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | 50% 할인 — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | 최대 77% 할인 | $139.00 · 일회성 결제 | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | 평생 이용 혜택 | $19.00 · 일회성 결제 | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | 50% 할인 | $74.50 · 평생 이용 | `BLACKFRIDAY26` |

@@ -221,7 +221,7 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [ScreenVerb](https://screenverb.com/pricing) | 50% de desconto | $19.50 · vitalício | `SVBF2026` |
 | [Seedeo](https://seedeo.ai/black-friday) | 62% em créditos; 64% em Pro anual | $99.00 / 20,000 créditos; $129.00 / primeiro ano | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Até 40% de desconto | $23.40 · vitalício | `BF2026` |
-| [Sip](https://sipapp.io/pricing/) | 50% de desconto | — | `BLACKFRIDAY26` |
+| [Sip](https://sipapp.io/blackfriday/) | 50% de desconto — Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2 | $29.99/seat; 1 year of updates | `BLACKFRIDAY26` / `CYBERMONDAY26` |
 | [Skylum Luminar](https://skylum.com/luminar/pricing) | Até 77% de desconto | $139.00 · pagamento único | — |
 | [Smooth Recorder](https://www.smoothrecorder.com/) | Oferta vitalícia | $19.00 · pagamento único | — |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | 50% de desconto | $74.50 · vitalício | `BLACKFRIDAY26` |
