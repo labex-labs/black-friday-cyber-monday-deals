@@ -81,6 +81,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% off | $48.30 · lifetime | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 40% off · first invoice | From $59.40 first invoice | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% off | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 50% off | $54.00 / year | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 20% off | $183.00 · 50 directory submissions | `BF2026` |
