@@ -52,10 +52,15 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Aster Mail](https://astermail.org/) | 50% off | $4.49 / month | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 83% off | $61.32 / 28 months | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | Up to 80% off | From $83.72 / 28 months | — |
+| [Guard by OffSeq](https://guard.report/monitoring) | 50% off · full report and first month of monitoring | €19.95 · full report; €12.50 · first month of monitoring per domain, incl. VAT | — |
 | [Imunify360](https://www.imunify360.com/) | Up to 40% off | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | See offer | From $2.19 / month · 2-year plan | — |
 | [NordPass](https://nordpass.com/black-friday/) | Up to 50% off · annual | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Up to 78% off | From $3.49 / month · prepaid plan | — |
+| [OffSeq Breach](https://breach.offseq.com/#pricing) | 50% off · first billing period | From €12 · first month, Basic, excl. VAT | `BLACK` |
+| [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off · first 3 months | From €24.50 / month · Starter, first 3 months, excl. VAT | `BFCM2026` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 50% off · first year or month, new customers | €2 / device / month · billed yearly, first year, excl. VAT | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off · first month or year | From €6 / month · Individual, first month, incl. VAT | — |
 | [Presend](https://getpresend.com/) | 20% off | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | 83% off | Approx. $2.03 / month · 40-month term | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | 50% off | — | — |
