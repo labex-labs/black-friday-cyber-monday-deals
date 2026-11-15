@@ -56,6 +56,9 @@
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 特典を確認 | 最低価格 $2.19 / 月 · 2 年プラン | — |
 | [NordPass](https://nordpass.com/black-friday/) | 最大 50% 割引 · 年払い | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 最大 78% 割引 | 最低価格 $3.49 / 月 · 前払いプラン | — |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% 割引 | — | `BLACK` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 初年度または初月が 50% 割引 · 新規顧客限定 | €2 / デバイス / 月 · 年払い、初年度、付加価値税別 | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 初月が 50% 割引 | €6 / 月 · Individual、初月、付加価値税込 | — |
 | [Presend](https://getpresend.com/) | 20% 割引 | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | 83% 割引 | 約 $2.03 / 月 · 40 か月契約 | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | 50% 割引 | — | — |

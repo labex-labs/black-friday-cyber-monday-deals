@@ -56,6 +56,9 @@ Lerne Linux, DevOps, Cybersicherheit und Cloud-Technologien mit praktischen Übu
 | [IPVanish](https://www.ipvanish.com/black-friday/) | Angebot ansehen | Ab $2.19 / Monat · 2-Jahres-Tarif | — |
 | [NordPass](https://nordpass.com/black-friday/) | Bis zu 50% Rabatt · jährlich | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Bis zu 78% Rabatt | Ab $3.49 / Monat · Prepaid-Tarif | — |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% Rabatt | — | `BLACK` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 50% Rabatt · erstes Jahr oder erster Monat, nur Neukunden | €2 / Gerät / Monat · jährliche Abrechnung, erstes Jahr, zzgl. MwSt. | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% Rabatt · erster Monat | €6 / Monat · Individual, erster Monat, inkl. MwSt. | — |
 | [Presend](https://getpresend.com/) | 20% Rabatt | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | 83% Rabatt | Ca. $2.03 / Monat · Laufzeit 40 Monate | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | 50% Rabatt | — | — |

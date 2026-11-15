@@ -56,6 +56,9 @@
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 혜택 보기 | 최저 $2.19 / 월 · 2년 요금제 | — |
 | [NordPass](https://nordpass.com/black-friday/) | 최대 50% 할인 · 연간 | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 최대 78% 할인 | 최저 $3.49 / 월 · 선결제 요금제 | — |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% 할인 | — | `BLACK` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 첫해 또는 첫 달 50% 할인 · 신규 고객 한정 | €2 / 기기 / 월 · 연간 결제, 첫해, 부가세 별도 | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 첫 달 50% 할인 | €6 / 월 · Individual, 첫 달, 부가세 포함 | — |
 | [Presend](https://getpresend.com/) | 20% 할인 | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | 83% 할인 | 약 $2.03 / 월 · 40개월 약정 | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | 50% 할인 | — | — |

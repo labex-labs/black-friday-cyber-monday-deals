@@ -56,6 +56,9 @@
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 查看优惠 | 起价 $2.19 / 月 · 两年期方案 | — |
 | [NordPass](https://nordpass.com/black-friday/) | 最高减免 50% · 年付 | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 最高减免 78% | 起价 $3.49 / 月 · 预付方案 | — |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | 立减 50% | — | `BLACK` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 首年或首月立减 50% · 仅限新客户 | €2 / 设备 / 月 · 年付，首年，不含增值税 | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 首月立减 50% | €6 / 月 · Individual，首月，含增值税 | — |
 | [Presend](https://getpresend.com/) | 立减 20% | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | 立减 83% | 约 $2.03 / 月 · 40 个月方案 | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | 立减 50% | — | — |

@@ -56,6 +56,9 @@
 | [IPVanish](https://www.ipvanish.com/black-friday/) | Смотреть предложение | От $2.19 / месяц · тариф на 2 года | — |
 | [NordPass](https://nordpass.com/black-friday/) | Скидка до 50% · годовой тариф | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Скидка до 78% | От $3.49 / месяц · предоплаченный тариф | — |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | Скидка 50% | — | `BLACK` |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | Скидка 50% · первый год или месяц, новые клиенты | €2 / устройство / месяц · оплата за год, первый год, без НДС | — |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | Скидка 50% · первый месяц | €6 / месяц · Individual, первый месяц, с НДС | — |
 | [Presend](https://getpresend.com/) | Скидка 20% | — | `BF20` |
 | [Private Internet Access](https://www.privateinternetaccess.com/buy-vpn-online) | Скидка 83% | Около $2.03 / месяц · срок 40 месяцев | — |
 | [Proton Mail](https://proton.me/mail/black-friday) | Скидка 50% | — | — |
