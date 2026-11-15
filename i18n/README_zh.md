@@ -81,6 +81,7 @@
 | [ClipAudit](https://clipaudit.app/) | 立减 40% | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 立减 30% | $6.99 · 标准许可证 | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 立减 30% | $48.30 · 终身版 | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 首张账单立减 40% · 2026 年 11 月 20 日至 12 月 1 日 | $59.40 · Supporter License 一次性付款或 Team 首月 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 立减 60% | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 立减 50% | $54.00 / 年 | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 立减 20% | $183.00 · 提交至 50 个目录 | `BF2026` |
@@ -127,6 +128,7 @@
 | [HostPapa](https://www.hostpapa.com/deals/) | 最高减免 90% | 起价 $1.25 / 月 · 预付 3 年 | — |
 | [Interdata](https://interdata.vn/blackfriday/) | 最高减免 75% | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 立减 50% | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 年付套餐免 3 个月 · 月付套餐前 3 个月立减 50% · 仅限新客户 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 立减 30% | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 查看优惠 | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 最高减免 60% | — | — |
@@ -205,6 +207,7 @@
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 立减 20% | $39.00 · 一次性购买 | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 立减 43% | $3.99 · 一次性购买 | — |
 | [Picmal](https://picmal.app/pricing) | 立减 50% | 起价 $14.50 · 1 台 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 立减 40% · Personal 和 Plus | Personal $17.40 · Plus $29.40 · 一次性付款 | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 立减 40% · 年付 | 起价 $42.48 / 年 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 立减 30% | $9.80 · 一次性购买 | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 立减 30% | $75.60 / 年 | `BLACKFRIDAY26` |
@@ -392,8 +395,10 @@
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 立减 50% | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 立减 20% | $39.20 · 报告 | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 立减 50% · 前 6 个月 | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | 立减 $100 · 一次性许可 | $150.00 · 一次性付款，Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 查看优惠 | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | 查看优惠 | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | 立减 40% · 终身版 | $59.00 · 一次性付款，Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro 立减 36%；目录提交服务立减 50% | $95.00 / 月 · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 立减 30% | $67.20 / 年 | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 立减 50% | $50.00 / 年 | — |

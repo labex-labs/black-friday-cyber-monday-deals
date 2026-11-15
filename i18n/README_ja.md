@@ -81,6 +81,7 @@
 | [ClipAudit](https://clipaudit.app/) | 40% 割引 | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% 割引 | $6.99 · 標準ライセンス | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% 割引 | $48.30 · 買い切り・無期限 | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 初回請求が 40% 割引 · 2026 年 11 月 20 日〜12 月 1 日 | $59.40 · Supporter License の一括払い、または Team の初月 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% 割引 | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 50% 割引 | $54.00 / 年 | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 20% 割引 | $183.00 · 50 ディレクトリへの掲載申請 | `BF2026` |
@@ -127,6 +128,7 @@
 | [HostPapa](https://www.hostpapa.com/deals/) | 最大 90% 割引 | 最低価格 $1.25 / 月 · 3 年分前払い | — |
 | [Interdata](https://interdata.vn/blackfriday/) | 最大 75% 割引 | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% 割引 | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 年払いプランは 3 か月無料 · 月払いプランは最初の 3 か月が 50% 割引 · 新規顧客限定 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% 割引 | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 特典を確認 | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 最大 60% 割引 | — | — |
@@ -205,6 +207,7 @@
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% 割引 | $39.00 · 一括払い | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% 割引 | $3.99 · 一括払い | — |
 | [Picmal](https://picmal.app/pricing) | 50% 割引 | 最低価格 $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 40% 割引 · Personal と Plus | Personal $17.40 · Plus $29.40 · 一括払い | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% 割引 · 年払い | 最低価格 $42.48 / 年 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% 割引 | $9.80 · 一括払い | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% 割引 | $75.60 / 年 | `BLACKFRIDAY26` |
@@ -392,8 +395,10 @@
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% 割引 | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% 割引 | $39.20 · レポート | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% 割引 · 最初の 6 か月 | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | $100 割引 · 買い切りライセンス | $150.00 · 一括払い、Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 特典を確認 | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | 特典を確認 | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | 40% 割引 · 無期限ライセンス | $59.00 · 一括払い、Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro が 36% 割引、掲載申請が 50% 割引 | $95.00 / 月 · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% 割引 | $67.20 / 年 | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 50% 割引 | $50.00 / 年 | — |

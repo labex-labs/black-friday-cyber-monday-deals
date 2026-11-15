@@ -81,6 +81,7 @@
 | [ClipAudit](https://clipaudit.app/) | Скидка 40% | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | Скидка 30% | $6.99 · стандартная лицензия | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | Скидка 30% | $48.30 · бессрочно | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | Скидка 40% · первый счёт · 20 ноября – 1 декабря 2026 | $59.40 · разовая Supporter License или первый месяц Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | Скидка 60% | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | Скидка 50% | $54.00 / год | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | Скидка 20% | $183.00 · 50 размещений в каталогах | `BF2026` |
@@ -127,6 +128,7 @@
 | [HostPapa](https://www.hostpapa.com/deals/) | Скидка до 90% | От $1.25 / месяц · оплата за 3 года | — |
 | [Interdata](https://interdata.vn/blackfriday/) | Скидка до 75% | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | Скидка 50% | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 3 месяца бесплатно при оплате за год · скидка 50% на первые 3 месяца при ежемесячной оплате · новые клиенты | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | Скидка 30% | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | Смотреть предложение | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Скидка до 60% | — | — |
@@ -205,6 +207,7 @@
 | [Oil Studio](https://studio.oiloil.org/en/#price) | Скидка 20% | $39.00 · разовый платёж | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | Скидка 43% | $3.99 · разовый платёж | — |
 | [Picmal](https://picmal.app/pricing) | Скидка 50% | От $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | Скидка 40% · Personal и Plus | Personal $17.40 · Plus $29.40 · разовый платёж | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | Скидка 40% · годовой тариф | От $42.48 / год | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | Скидка 30% | $9.80 · разовый платёж | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | Скидка 30% | $75.60 / год | `BLACKFRIDAY26` |
@@ -392,8 +395,10 @@
 | [Airbridge](https://www.airbridge.io/en/black-friday) | Скидка 50% | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | Скидка 20% | $39.20 · отчёт | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | Скидка 50% · первые 6 месяцев | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | Скидка $100 · разовая лицензия | $150.00 · разовый платёж, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | Смотреть предложение | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | Смотреть предложение | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | Скидка 40% · бессрочная лицензия | $59.00 · разовый платёж, Lifetime | — |
 | [CiteWing](https://citewing.com/) | Скидка 36% на Pro; 50% на размещения | $95.00 / месяц · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | Скидка 30% | $67.20 / год | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Скидка 50% | $50.00 / год | — |

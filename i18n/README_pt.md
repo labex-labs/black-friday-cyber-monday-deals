@@ -81,6 +81,7 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [ClipAudit](https://clipaudit.app/) | 40% de desconto | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% de desconto | $6.99 · licença padrão | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% de desconto | $48.30 · vitalício | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 40% de desconto · primeira fatura · 20 nov.–1 dez. 2026 | $59.40 · Supporter License de pagamento único ou primeiro mês de Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% de desconto | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 50% de desconto | $54.00 / ano | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 20% de desconto | $183.00 · 50 envios a diretórios | `BF2026` |
@@ -127,6 +128,7 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [HostPapa](https://www.hostpapa.com/deals/) | Até 90% de desconto | A partir de $1.25 / mês · pagamento por 3 anos | — |
 | [Interdata](https://interdata.vn/blackfriday/) | Até 75% de desconto | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% de desconto | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 3 meses grátis nos planos anuais · 50% de desconto nos primeiros 3 meses dos planos mensais · novos clientes | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% de desconto | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | Ver oferta | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Até 60% de desconto | — | — |
@@ -205,6 +207,7 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% de desconto | $39.00 · pagamento único | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% de desconto | $3.99 · pagamento único | — |
 | [Picmal](https://picmal.app/pricing) | 50% de desconto | A partir de $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 40% de desconto · Personal e Plus | Personal $17.40 · Plus $29.40 · pagamento único | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% de desconto · anual | A partir de $42.48 / ano | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% de desconto | $9.80 · pagamento único | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% de desconto | $75.60 / ano | `BLACKFRIDAY26` |
@@ -392,8 +395,10 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% de desconto | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% de desconto | $39.20 · relatório | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% de desconto · primeiros 6 meses | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | $100 de desconto · licença de pagamento único | $150.00 · pagamento único, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | Ver oferta | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | Ver oferta | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | 40% de desconto · vitalício | $59.00 · pagamento único, Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% em Pro; 50% em envios | $95.00 / mês · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% de desconto | $67.20 / ano | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 50% de desconto | $50.00 / ano | — |
