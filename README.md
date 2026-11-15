@@ -49,6 +49,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | Approx. 25% off · first year | From $2.99 / month · billed yearly | — |
 | [anon.li](https://anon.li/pricing) | 40% off · first year | $41.69 / year · Plus, first year | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | 30% off · all paid plans | From $14 / month · Starter | — |
 | [Aster Mail](https://astermail.org/) | 50% off | $4.49 / month | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 83% off | $61.32 / 28 months | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | Up to 80% off | From $83.72 / 28 months | — |
