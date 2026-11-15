@@ -170,6 +170,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Vinaa](https://www.vinaa.ai/) | 44% off | $39.00 · lifetime | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% off | $89.64 / year · Pro | — |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% off | From $27.30 / month · billed yearly, first year | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | 50% off · Pro & Max yearly | $72 / year · Pro; $174 / year · Max | — |
 
 <a name="design"></a>
 
