@@ -81,6 +81,7 @@
 | [ClipAudit](https://clipaudit.app/) | 40% 할인 | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% 할인 | $6.99 · 표준 라이선스 | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% 할인 | $48.30 · 평생 이용 | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 첫 청구서 40% 할인 · 2026년 11월 20일~12월 1일 | $59.40 · Supporter License 일회성 결제 또는 Team 첫 달 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% 할인 | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 50% 할인 | $54.00 / 년 | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 20% 할인 | $183.00 · 50 디렉터리 등록 | `BF2026` |
@@ -127,6 +128,7 @@
 | [HostPapa](https://www.hostpapa.com/deals/) | 최대 90% 할인 | 최저 $1.25 / 월 · 3년 선결제 | — |
 | [Interdata](https://interdata.vn/blackfriday/) | 최대 75% 할인 | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% 할인 | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 연간 요금제 3개월 무료 · 월간 요금제 첫 3개월 50% 할인 · 신규 고객 한정 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% 할인 | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 혜택 보기 | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 최대 60% 할인 | — | — |
@@ -205,6 +207,7 @@
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% 할인 | $39.00 · 일회성 결제 | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% 할인 | $3.99 · 일회성 결제 | — |
 | [Picmal](https://picmal.app/pricing) | 50% 할인 | 최저 $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 40% 할인 · Personal 및 Plus | Personal $17.40 · Plus $29.40 · 일회성 결제 | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% 할인 · 연간 | 최저 $42.48 / 년 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% 할인 | $9.80 · 일회성 결제 | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% 할인 | $75.60 / 년 | `BLACKFRIDAY26` |
@@ -392,8 +395,10 @@
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% 할인 | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% 할인 | $39.20 · 보고서 | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% 할인 · 첫 6개월 | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | $100 할인 · 일회성 라이선스 | $150.00 · 일회성 결제, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 혜택 보기 | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | 혜택 보기 | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | 40% 할인 · 평생 라이선스 | $59.00 · 일회성 결제, Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro 36% 할인; 등록 서비스 50% 할인 | $95.00 / 월 · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% 할인 | $67.20 / 년 | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 50% 할인 | $50.00 / 년 | — |

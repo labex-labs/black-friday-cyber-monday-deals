@@ -86,6 +86,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% off | $48.30 · lifetime | `BF2026` |
+| [DevIntern](https://devintern.com/pricing/) | 40% off · first invoice · Nov 20–Dec 1, 2026 | $59.40 · one-time Supporter License or first month of Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% off | — | `BLACKFRIDAY2026` |
 | [DynoTable](https://dynotable.com/) | 50% off | $54.00 / year | `BF50` |
 | [ExtensionLaunch](https://extensionlaunch.com/) | 20% off | $183.00 · 50 directory submissions | `BF2026` |
@@ -132,6 +133,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [HostPapa](https://www.hostpapa.com/deals/) | Up to 90% off | From $1.25 / month · 3-year billing | — |
 | [Interdata](https://interdata.vn/blackfriday/) | Up to 75% off | — | — |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% off | — | — |
+| [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans · 50% off first 3 months on monthly plans · new customers | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% off | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
@@ -210,6 +212,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% off | $39.00 · one-time | — |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% off | $3.99 · one-time | — |
 | [Picmal](https://picmal.app/pricing) | 50% off | From $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [Pimosa](https://pimosa.app) | 40% off · Personal and Plus | Personal $17.40 · Plus $29.40 · one-time | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% off · annual | From $42.48 / year | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% off | $9.80 · one-time | `PRESENTIFY30` |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% off | $75.60 / year | `BLACKFRIDAY26` |
@@ -397,8 +400,10 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
+| [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing) | 40% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% off Pro; 50% off submissions | $95.00 / month · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% off | $67.20 / year | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 50% off | $50.00 / year | — |
