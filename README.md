@@ -381,6 +381,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Wick](https://appsbymo.app/wick/) | 50% off | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | 30% off | $27.30 · one-time, 2 Macs | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | 40% off | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | 50% off | $19.00 · one-time | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 35% off | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 50% off | $49.99 · lifetime | — |
 | [Yonder](https://appsbymo.app/yonder/) | 50% off | — | `BLACKFRIDAY` |
