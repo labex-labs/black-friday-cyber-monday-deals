@@ -217,6 +217,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Reason Studios](https://www.reasonstudios.com/) | Up to 50% off | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 60% off | $17.99 · lifetime | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | 40% off | $3.00 · one-time | `BLACKFRIDAY26` |
+| [Renderly](https://renderly.video/pricing) | 30% off · first payment, new subscriptions | $20.30 / month · Creator, first month | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | 20% off | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 40% off | $6.00 · one-time | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 50% off | $6.49 · one-time | — |
