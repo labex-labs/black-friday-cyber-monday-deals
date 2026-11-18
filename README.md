@@ -405,6 +405,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 87% off — all 11 products incl. FoodFleet, ShopKart, Billify, Auto Lead Pilot AI, Site Commander MCP, Pro Fin Suite, DataXtract Pro, WooFlow Manager, Fin Tools Theme, All In One Smart Extractor, Orbit Meet; lifetime access | $129.00 · one-time | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% off Pro; 50% off submissions | $95.00 / month · Pro | — |
