@@ -83,6 +83,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off | $23.40 · lifetime | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | 40% off | $17.40 / year · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% off | $48.30 · lifetime | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | 40% off · first invoice · Nov 20–Dec 1, 2026 | $59.40 · one-time Supporter License or first month of Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% off | — | `BLACKFRIDAY2026` |
@@ -316,6 +317,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 50% off | $14.99 · one-time, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 20% off | $31.20 · one-time | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | 50% off | $16.50 · lifetime | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | 40% off | $2.99 · lifetime | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | 30% off | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | See offer | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | 51% off | $19.00 · one-time | — |
