@@ -54,6 +54,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ExpressVPN](https://www.expressvpn.com/pricing) | Up to 80% off | From $83.72 / 28 months | — |
 | [Imunify360](https://www.imunify360.com/) | Up to 40% off | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | See offer | From $2.19 / month · 2-year plan | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | 83% off · Unlimited plan, yearly | $59 / year · Unlimited inboxes, same price at renewal | — |
 | [NordPass](https://nordpass.com/black-friday/) | Up to 50% off · annual | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Up to 78% off | From $3.49 / month · prepaid plan | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% off | — | `BLACK` |
