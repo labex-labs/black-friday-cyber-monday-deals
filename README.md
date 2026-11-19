@@ -67,7 +67,10 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% off | $101.55 / 5 years | — |
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
-
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | 20% off · Lifetime licence | €960 · was €1,200 | `LIFETIME` |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | 20% off · Lifetime licence | €960 · was €1,200 | `LIFETIME` |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | 20% off · Lifetime licence | €960 · was €1,200 | `LIFETIME` |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | Black Friday bundle | €4,000 · Exploit, Control and Kernel Packs with AI | — |
 <a name="development"></a>
 
 <p align="center">
