@@ -163,6 +163,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SciFig](https://scifig.ai/black-friday) | Extra 20% off | $80.00 / year · Starter, first year | — |
 | [ScribeToAny](https://scribetoany.com/) | 30% off | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | See offer | — | — |
+| [Skillry](https://skillry.dev/pricing) | 50% off Pro; $80 off lifetime | $9.99 / month · first month; $79 / year · first year; $169 · lifetime | — |
 | [Slashspace](https://www.slashspace.ai/) | 51% off | $122.01 · lifetime | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 30% off | $69.30 · lifetime | — |
 | [Supacite](https://supacite.com/) | Lifetime offer | $89.00 early tier; $129.00 later · lifetime | `CITEBF` |
@@ -403,6 +404,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | 50% off · first month; 20% off · first year | From $14.95 / month · Starter, first month | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
