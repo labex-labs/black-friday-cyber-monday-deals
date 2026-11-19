@@ -417,6 +417,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% off the first year of annual Launch, Growth or Scale for new customers who start a seven-day trial through the offer link (19–30 Nov 2026 inclusive, GMT) | Growth: US$1,072.80 for year one, then US$1,788 per year, before applicable tax | `BF2026` |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
