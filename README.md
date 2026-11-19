@@ -419,6 +419,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
+| [Keyword Race](https://keywordrace.com/?utm_source=labexlabsbf) | 40% off · lifetime | $35.00 · one-time, Lifetime (was $59) | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% off | $24.50 / year · Featured listing | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 months free | $37.50 / month · billed yearly | — |
