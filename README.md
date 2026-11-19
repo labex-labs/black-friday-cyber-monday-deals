@@ -417,6 +417,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% off the first year of annual Starter, Growth or Success for new customers (Nov 19–30, 2026 GMT) | US$234 for the first year of Starter, usually US$390 | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
