@@ -67,6 +67,8 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% off | $101.55 / 5 years | — |
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off | Up to 90% off course bundles; individual certifications from $5; Infinity Yearly $49 with 2 free certifications | [View CWL Black Friday Deals](YOUR_GITHUB_REPOSITORY_URL) |
+
 
 <a name="development"></a>
 
