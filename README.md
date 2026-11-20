@@ -237,6 +237,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% off | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% off | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | See offer | — | — |
+| [YIX](https://yix.ai/pricing) | 50% off the first month on monthly plans, automatically applied · Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive) | Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD) | — |
 
 <a name="web"></a>
 
