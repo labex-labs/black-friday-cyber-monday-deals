@@ -376,6 +376,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Todowing](https://todowing.com/) | 40% off | $5.99 · lifetime | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | 50% off | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | 30% off | $20.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | 30.8% off | US$8.99 · one-time | — |
 | [Typefu](https://indiegoodies.com/typefu) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | 10% off | $13.49 / first year · 5 Macs | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | 50% off | — | `BLACKFRIDAY` |
