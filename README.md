@@ -255,6 +255,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Framer](https://www.framer.com/pricing) | See offer | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | Up to 40% off | From $69.00 · lifetime | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | Up to 40% off | $49.00 · early bird | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | 83% off | $249.00 · lifetime | — |
 | [MingCute UI](https://ui.mingcute.com/) | 30% off | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | Up to 70% off | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 40% off | — | `WIZARDS40` |
