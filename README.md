@@ -65,6 +65,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Proton Pass](https://proton.me/pass/black-friday) | Up to 60% off | $23.88 / year · Plus, first year | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 70% off · Plus, first year | $35.88 / first year · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% off | $101.55 / 5 years | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | 50% off Pro Lifetime (regularly $29.99 USD) | $14.99 USD · lifetime | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
 
@@ -285,6 +286,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [AppsByMo](https://appsbymo.app/) | 50% off | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% off | $30.00 · one-time | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% off | — | `BLACKFRIDAY40` |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% off Lifetime (regularly $14.99 USD) | $7.49 USD · lifetime | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% off | $74.50 · lifetime | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% off | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | See offer | — | — |
@@ -299,6 +301,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% off Pro | $18.90 · lifetime | `BLACKFRIDAY2026` |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% off | $43.20 / year | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% off | $22.99 · lifetime | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | 50% off Single Lifetime (regularly $17.99 USD) | $8.99 USD · lifetime | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
 | [Docket](https://docketseo.app/) | 50% off | $29.50 · one-time | — |
 | [DockFlow](https://dockflowapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
