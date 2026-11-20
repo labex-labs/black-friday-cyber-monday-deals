@@ -99,6 +99,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% off · first 3 months | From $24.50 / month · first 3 months | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% off | $4.69 · lifetime | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% off | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | 35% off · first payment · Nov 16–Dec 3, 2026 | $58.50 / year · Solo, first year | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% off | $44.50 · one-time | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% off | $4.99 · one-time | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | Up to 50% off | — | — |
@@ -135,6 +136,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans · 50% off first 3 months on monthly plans · new customers | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% off | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
+| [Static.app](https://static.app/black-friday) | 35% off · first payment · Nov 16–Dec 1, 2026 | $39.00 / year · Starter, first year | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
 
 <a name="ai"></a>
@@ -262,6 +264,8 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 50% off | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | See offer | — | — |
 | [ShipAhead](https://shipahe.ad/) | 50% off | — | — |
+| [Siter.io](https://siter.io/black-friday) | 35% off · first payment · Nov 16–Dec 1, 2026 | $54.60 / year · Solo, first year | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | Up to 40% off · yearly plans · until Nov 30, 2026 | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | 40% off | $29.00 · license | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | 40% off | $170.00 / year · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | 50% off | — | `BF50` |
@@ -435,6 +439,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Pagerly](https://pagerly.io/) | 20% off | — | `BF20` |
 | [Picmim](https://picmim.com/) | 50% off | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | 25% off | From $37.00 · lifetime | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | Up to 40% off · yearly plans · until Nov 30, 2026 | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | 50% off | $174.00 / year | `BF26` |
 | [Postiz](https://postiz.com/pricing) | See offer | — | — |
 | [Quotion](https://quotion.co/#pricing) | 30% off | $8.40 / month | `BLACKFRIDAY2026` |
@@ -455,6 +460,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Terlido](https://terlido.com/pricing) | 40% off | From $23.40 / seat / month · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | 50% off | $9.50 / month | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | 25% off | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | 35% off · first invoice · Nov 16–Dec 1, 2026 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% off | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% off | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% off | — | `BF2026` |
