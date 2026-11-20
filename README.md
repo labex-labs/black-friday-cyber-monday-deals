@@ -237,6 +237,14 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% off | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% off | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | See offer | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [PicVideo](https://picvideo.net/black-friday) | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [Text Animation](https://textanimation.org/black-friday) | 2× credits for AI features as they launch: first month or year of a new subscription, plus 2× credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [FixImage](https://fiximage.net/black-friday) | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | 2× credits on credit packs and the first month of new monthly plans. New annual plans get 6 extra months of credits. Same prices. Ends Dec 1, 23:59 PT. | — | — |
+| [RemoveVideoBG.net](https://removevideobg.net/black-friday) | 2× credits on credit packs and the first month of new monthly plans. New annual plans get 6 extra months of credits. Same prices. Ends Dec 1, 23:59 PT. | — | — |
 
 <a name="web"></a>
 
