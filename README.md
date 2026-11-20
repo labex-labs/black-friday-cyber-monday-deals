@@ -106,6 +106,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [TablePlus](https://tableplus.com/pricing) | 25% off | $74.25 · one-time | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 40% off | $47.40 · one-time | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
+| [Toplify](https://toplify.app) | $40 off · Nov 15–Dec 1, 2026 | $49.99 USD · lifetime (was $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% off | $51.75 · one-time | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% off | $35.00 · lifetime | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | Lifetime offer | From $199.00 · lifetime, 25 sites | — |
