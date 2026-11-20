@@ -150,7 +150,7 @@
 | [Blip AI Pro](https://www.blipai.app/) | Скидка 50% · первый год | — | — |
 | [BoltAI](https://boltai.com/pricing) | Скидка 40% | $239.40 · бессрочно | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | Скидка 90% | $63.00 · бессрочно | — |
-| [Enconvo](https://enconvo.com/) | Скидка 30% | — | — |
+| [Enconvo](https://enconvo.com/pricing) | Скидка 30% · Lifetime и первый платёж Cloud · 20 ноября – 7 декабря 2026 | $41.30 · Standard, бессрочно | — |
 | [Fluent 2](https://fluentmac.app/) | Скидка 25% | $36.75 · Basic | `BF2026` |
 | [Mo](https://appsbymo.app/mo/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | Скидка 30% | — | `BLFCM2026` |

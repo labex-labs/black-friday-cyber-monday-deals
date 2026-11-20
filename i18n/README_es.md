@@ -150,7 +150,7 @@ Aprende Linux, DevOps, ciberseguridad y tecnologías de la nube con laboratorios
 | [Blip AI Pro](https://www.blipai.app/) | 50% de descuento · primer año | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% de descuento | $239.40 · de por vida | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% de descuento | $63.00 · de por vida | — |
-| [Enconvo](https://enconvo.com/) | 30% de descuento | — | — |
+| [Enconvo](https://enconvo.com/pricing) | 30% de descuento · Lifetime y primer pago de Cloud · 20 nov.–7 dic. 2026 | $41.30 · Standard, de por vida | — |
 | [Fluent 2](https://fluentmac.app/) | 25% de descuento | $36.75 · Basic | `BF2026` |
 | [Mo](https://appsbymo.app/mo/) | 50% de descuento | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% de descuento | — | `BLFCM2026` |
