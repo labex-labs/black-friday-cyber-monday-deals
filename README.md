@@ -152,6 +152,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [BoltAI](https://boltai.com/pricing) | 40% off | $239.40 · lifetime | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% off | $63.00 · lifetime | — |
 | [Enconvo](https://enconvo.com/) | 30% off | — | — |
+| [FastScribe](https://fastscribe.org/pricing) | $31 off · first year · Nov 17–30, 11:59 PM Pacific | $89 / first year (regular and renewal $120/year); 6,500 bonus credits; accounts without active subscription | Automatic |
 | [Fluent 2](https://fluentmac.app/) | 25% off | $36.75 · Basic | `BF2026` |
 | [Mo](https://appsbymo.app/mo/) | 50% off | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% off | — | `BLFCM2026` |
