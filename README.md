@@ -237,6 +237,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% off | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% off | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | See offer | — | — |
+| [ViralReel](https://www.viralreel.app/pricing) | Up to 30% off · one-time credit packs | Popular US$16.00 (was US$19.90) · 180 credits; Creator US$28.00 (was US$39.90) · 480 credits | — |
 
 <a name="web"></a>
 
