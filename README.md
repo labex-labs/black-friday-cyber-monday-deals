@@ -365,6 +365,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | See offer | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 30% off | $5.59 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | 50% off | $4.99 · lifetime | — |
+| [Sum](https://sumtranscribe.com/pricing) | 50% off · first month or first year of Sum Pro (Web), through Nov 30 (US Eastern Time) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% off | $39.50 · lifetime | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 30% off | $34.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 30% off | $27.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
