@@ -184,6 +184,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [Atmos](https://atmos.style/) | Up to 50% off | $79.50 · lifetime | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% off | $9.99 · lifetime | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 50% off | $39.99 · lifetime | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 50% off | — | — |
 | [Bindrik](https://bindrik.com/en) | 43% off | $39.00 · one-time | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 33% off | $19.99 · one-time | — |
