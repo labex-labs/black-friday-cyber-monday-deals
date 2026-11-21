@@ -207,6 +207,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [MingCute Animation](https://www.mingcute.com/animation) | 30% off | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | 30% off | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% off | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | 50% off · first month, new subscriptions | $14.50 / month · Pro, first month; $49.50 / month · Max, first month | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% off | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% off | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/#price) | 20% off | $39.00 · one-time | — |
