@@ -228,6 +228,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Up to 50% off subscriptions; 33% off lifetime | — | — |
 | [ScreenSnap Pro](https://www.screensnap.pro/) | 50% off | $19.50 · lifetime | `BLACKFRIDAY` |
 | [ScreenVerb](https://screenverb.com/pricing) | 50% off | $19.50 · lifetime | `SVBF2026` |
+| [Seedance AI Video Generator](https://www.seeddance.io/pricing) | 50% off · Pro annual | $174.00 / year · Pro | — |
 | [Seedeo](https://seedeo.ai/black-friday) | 62% off credits; 64% off Pro annual | $99.00 / 20,000 credits; $129.00 / first year | `bf26_pack99` |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Up to 40% off | $23.40 · lifetime | `BF2026` |
 | [Sip](https://sipapp.io/blackfriday/) | 50% off · Black Friday Nov 27–29; Cyber Monday Nov 30–Dec 2, 2026 | — | `BLACKFRIDAY26` / `CYBERMONDAY26` |
