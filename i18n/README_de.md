@@ -264,6 +264,7 @@ Lerne Linux, DevOps, Cybersicherheit und Cloud-Technologien mit praktischen Übu
 | [Wordify](https://wordify.com/black-friday/) | 50% Rabatt | — | `BF50` |
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Bis zu 50% Rabatt | $398.00 · dauerhafte Lizenz | — |
 | [ZipWP](https://zipwp.com/black-friday/) | Bis zu 47% Rabatt | — | — |
+| [ZeroDirs](https://zerodirs.com/#pricing) | 73% Rabatt | $49 · dauerhafte Lizenz | — |
 
 <a name="productivity"></a>
 

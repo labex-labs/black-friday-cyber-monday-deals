@@ -267,6 +267,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Wordify](https://wordify.com/black-friday/) | 50% off | — | `BF50` |
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Up to 50% off | $398.00 · lifetime | — |
 | [ZipWP](https://zipwp.com/black-friday/) | Up to 47% off | — | — |
+| [ZeroDirs](https://zerodirs.com/#pricing) | 73% off | $49 · lifetime | — |
 
 <a name="productivity"></a>
 

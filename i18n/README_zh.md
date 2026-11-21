@@ -264,6 +264,8 @@
 | [Wordify](https://wordify.com/black-friday/) | 立减 50% | — | `BF50` |
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | 最高减免 50% | $398.00 · 终身版 | — |
 | [ZipWP](https://zipwp.com/black-friday/) | 最高减免 47% | — | — |
+| [ZipWP](https://zipwp.com/black-friday/) | 最高减免 47% | — | — |
+| [ZeroDirs](https://zerodirs.com/#pricing) | 立减 73% | $49 · 终身版 | — |
 
 <a name="productivity"></a>
 
