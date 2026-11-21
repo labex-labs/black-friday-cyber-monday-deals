@@ -237,6 +237,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% off | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% off | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | See offer | — | — |
+| [Unraster](https://unraster.ai/pricing) | 45% off | $43.95 · 150-credit pack | `BLACKFRIDAY45` |
 
 <a name="web"></a>
 
