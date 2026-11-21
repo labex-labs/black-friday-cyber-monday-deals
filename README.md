@@ -413,6 +413,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [DataFast](https://datafa.st/) | See offer | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | 25% off | — | — |
 | [Directify](https://directify.app/founders) | 56% off | $599.00 / 2 years · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | 33% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% off | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
