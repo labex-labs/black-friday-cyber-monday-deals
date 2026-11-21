@@ -264,6 +264,7 @@
 | [Wordify](https://wordify.com/black-friday/) | Скидка 50% | — | `BF50` |
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Скидка до 50% | $398.00 · бессрочно | — |
 | [ZipWP](https://zipwp.com/black-friday/) | Скидка до 47% | — | — |
+| [ZeroDirs](https://zerodirs.com/#pricing) | Скидка 73% | $49 · бессрочно | — |
 
 <a name="productivity"></a>
 
