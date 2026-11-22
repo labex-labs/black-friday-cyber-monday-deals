@@ -101,6 +101,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Proxyman](https://proxyman.com/pricing) | 30% off | $62.30 · Standard | `BF2026` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% off | $44.50 · one-time | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% off | $4.99 · one-time | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | 50% off · Nov 21–Dec 6, 2026 | $49.00 · one-time | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | Up to 50% off | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 50% off | $99.00 · lifetime | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 25% off | $74.25 · one-time | `BLACK_FRIDAY_2026` |
