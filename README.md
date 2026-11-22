@@ -418,6 +418,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 40% off · first year, yearly plans | From $54.00 / year | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% off | $24.50 / year · Featured listing | `BF2026` |
