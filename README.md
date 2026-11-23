@@ -67,6 +67,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% off | $101.55 / 5 years | — |
 | [Surfshark](https://surfshark.com/pricing) | Up to 90% off | From $67.23 / 27 months | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
+| [VibeShield](https://vibe-checker.appwrite.network/) | 78% off · one-time (reg. $9) | $2 one-time | — |
 
 <a name="development"></a>
 
