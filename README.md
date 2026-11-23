@@ -300,6 +300,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Dayora](https://www.dayora.ai/black-friday) | 40% off | $43.20 / year | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% off | $22.99 · lifetime | `BF2026` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
+| [DiskMate](https://diskmate.app) | 50% off | $5.00 · lifetime | — |
 | [Docket](https://docketseo.app/) | 50% off | $29.50 · one-time | — |
 | [DockFlow](https://dockflowapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Up to 50% off | From $12.99 · lifetime | — |
