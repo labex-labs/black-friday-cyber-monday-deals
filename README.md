@@ -192,6 +192,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Cutfac](https://cutfac.com/pricing) | 40% off | From $29.40 · one-time | `BF2026` |
 | [Dabbit](https://dabbit.app/) | 30% off | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | See offer | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 66% off | $10.20 · lifetime | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 40% off | $6.00 · one-time | — |
 | [FaceScreen](https://facescreen.app/) | 30% off | $4.19 · one-time | `FACESCREEN30` |
 | [FL Studio](https://www.image-line.com/specials) | Up to 50% off | — | — |
