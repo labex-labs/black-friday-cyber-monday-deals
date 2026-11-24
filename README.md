@@ -79,7 +79,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 50% off | $99.00 · lifetime | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% off | $15.00 · lifetime | `Sale2026` |
-| [APIKO](https://apiko.app/) | 10% extra API credits on every paid top-up; Ends Nov 27, 2026 at 11:59 p.m. Pacific Time | USD $100 adds $110 in credits · pay as you go | — |
+| [APIKO](https://apiko.app/) | 10% bonus credits · paid top-ups, through Nov 27, 2026 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% off | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off | $23.40 · lifetime | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
