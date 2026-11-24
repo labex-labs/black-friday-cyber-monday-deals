@@ -519,6 +519,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Unspam.email](https://unspam.email/black-friday) | 35% off · first invoice · Nov 16–Dec 1, 2026 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% off | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% off | — | `BFCM72` |
+| [Vaneform](https://vaneform.com/pricing) | 20% off · Pro Annual, first year, new buyers · Nov 24–30, 2026 (PT) | $79.00 / year · Pro, first year ($99/yr after) | `VFBF2026` |
 | [Vemetric](https://vemetric.com/) | 30% off | — | `BF2026` |
 | [VibeView](https://vibeview.io/) | Up to 30% off | — | — |
 
