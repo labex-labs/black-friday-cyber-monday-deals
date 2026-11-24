@@ -294,13 +294,12 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 30% off | $20.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 50% off | €19.99 · lifetime | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 50% off | $24.50 · one-time | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | Black Friday sale | $9.99 · one-time, through Dec 2 (then $29) | — |
+| [Crisp](https://crispvideo.app/pricing/) | Black Friday sale · through Dec 2, 2026 | $9.99 · one-time | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% off | $14.50 · one-time | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% off Pro | $18.90 · lifetime | `BLACKFRIDAY2026` |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% off | $43.20 / year | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% off | $22.99 · lifetime | `BF2026` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
-| [Check Engine SEO](https://checkengineseo.com/pricing/) | Black Friday sale | $19.99 · one-time, through Dec 2 (then $39) | — |
 | [DockFlow](https://dockflowapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Up to 50% off | From $12.99 · lifetime | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 30% off | $34.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
@@ -340,7 +339,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% off | — | — |
 | [Noteline](https://noteline.io/pricing) | 50% off | — | — |
 | [OkayTab](https://okaytab.app/) | 30% off · first billing period | $2.51 · first month | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/pricing/) | Black Friday sale | $16.99 · one-time, through Dec 2 (then $39) | — |
+| [Outlier](https://outlier.host/pricing/) | Black Friday sale · through Dec 2, 2026 | $16.99 · one-time | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
@@ -406,6 +405,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | Black Friday sale · through Dec 2, 2026 | $19.99 · one-time | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% off Pro; 50% off submissions | $95.00 / month · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% off | $67.20 / year | `BF30` |
