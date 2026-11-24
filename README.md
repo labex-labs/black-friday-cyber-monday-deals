@@ -374,6 +374,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Mac 4 Breakfast](https://www.mac4breakfast.app/) | 50% off | $4.99 · one-time | `BLACKFRIDAY26` |
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 30% off | Varies by app | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 50% off | $4.99 · Mac App Store | `BLACKFRIDAY` |
+| [Meboki](https://meboki.com/#pricing) | $10 off · through Dec 1, 2026 (PT) | $29.00 · one-time | — |
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% off | — | `BFCM2026` |
 | [MeetMic](https://meetmic.app/buy) | 55% off · lifetime · Nov 23–Dec 10, 2026 | $26.55 · lifetime | `BF26` |
 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% off | $29.99 · lifetime | — |
