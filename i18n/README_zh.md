@@ -207,7 +207,7 @@
 | [MingCute Weather](https://mgcweather.framer.website/) | 立减 30% | — | `BF2026` |
 | [Nano Banana](https://nanobanana.org/black-friday) | 立减 50% | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 立减 20% | — | — |
-| [Oil Studio](https://studio.oiloil.org/en/#price) | 立减 20% | $39.00 · 一次性购买 | — |
+| [Oil Studio](https://studio.oiloil.org/en/) | 折上 8 折（当前首发价 $39 基础上再减 20%，原价 $49） | $31.20 · 一次性购买（2 台 Mac） | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 立减 43% | $3.99 · 一次性购买 | — |
 | [Picmal](https://picmal.app/pricing) | 立减 50% | 起价 $14.50 · 1 台 Mac | `BLACKFRIDAY` |
 | [Pimosa](https://pimosa.app) | 立减 40% · Personal 和 Plus | Personal $17.40 · Plus $29.40 · 一次性付款 | `BLACKFRIDAY40` |
