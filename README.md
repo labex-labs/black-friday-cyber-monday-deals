@@ -320,6 +320,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [AppsByMo](https://appsbymo.app/) | 50% off | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% off | $30.00 · one-time | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% off | — | `BLACKFRIDAY40` |
+| [BetterDisplay](https://betterdisplay.pro/) | 33% off Pro · Nov 26–Dec 1, 2026 | US$14.73 · one-time | `BFCM2026` |
 | [Check Engine SEO](https://checkengineseo.com/pricing/) | Black Friday sale · through Dec 2, 2026 | $19.99 · one-time | — |
 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% off Lifetime (regularly $14.99 USD) | $7.49 USD · lifetime | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% off | $74.50 · lifetime | `BLACKFRIDAY26` |
