@@ -165,7 +165,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [BoltAI](https://boltai.com/pricing) | 40% off | $239.40 · lifetime | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% off | $63.00 · lifetime | — |
 | [ConceptViz](https://conceptviz.app/pricing) | Lifetime offer | $299.00 · lifetime | — |
-| [Enconvo](https://enconvo.com/) | 30% off | — | — |
+| [Enconvo](https://enconvo.com/pricing) | 30% off · Lifetime and first Cloud payment · Nov 20–Dec 7, 2026 | $41.30 · Standard, lifetime | — |
 | [FastScribe](https://fastscribe.org/pricing) | $31 off · first year, plus 6,500 bonus credits | $89.00 / year · Pro, first year | — |
 | [Fluent 2](https://fluentmac.app/) | 25% off | $36.75 · Basic | `BF2026` |
 | [MakeMidas](https://makemidas.com/pricing) | Up to 25% more credits · credit packs | $10 · 1,250 credits (was 1,000) · one-time | — |
@@ -266,6 +266,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Image to 3D AI](https://imageto3dai.org/black-friday) | 2× credits · first subscription term and subscriber packs, through Dec 1, 2026 (PT) | — | — |
 | [FixImage](https://fiximage.net/black-friday) | 2× credits · first subscription term and subscriber packs, through Dec 1, 2026 (PT) | — | — |
 | [RemoveVideoBG.com](https://removevideobg.com/black-friday) | 2× credits · packs and first month; 6 extra months of credits · new annual plans | — | — |
+| [ViralReel](https://www.viralreel.app/pricing) | Up to 30% off · select one-time credit packs | US$16.00 · Popular, 180 credits; US$28.00 · Creator, 480 credits | — |
 | [YIX](https://yix.ai/pricing) | 50% off · first month of new monthly plans | From US$9.95 / month · Starter, first month | — |
 
 <a name="web"></a>
