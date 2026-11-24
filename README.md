@@ -444,7 +444,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Rapid Indexer](https://rapid-indexer.com/) | Up to 40% bonus credits | Varies by top-up | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | Up to 78% off | From $299.00 · one-time | — |
 | [RenewRoster](https://renewroster.com/pricing) | 50% off | $75.00 / year | — |
-| [Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=labex) | 50% off · 6 months of Sabi Pro | $495 USD / 6 months (was $995) | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | About 50% off · 6 months of Sabi Pro | US$495.00 / 6 months | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | Up to 17% off | — | — |
 | [Sender](https://www.sender.net/pricing/) | See offer | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 30% off | From $143.50 / year | `BLACKFRIDAY` |
