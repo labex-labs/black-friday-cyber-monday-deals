@@ -168,6 +168,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Enconvo](https://enconvo.com/pricing) | 30% off · Lifetime and first Cloud payment · Nov 20–Dec 7, 2026 | $41.30 · Standard, lifetime | — |
 | [FastScribe](https://fastscribe.org/pricing) | $31 off · first year, plus 6,500 bonus credits · no active subscription | $89.00 / year · Pro, first year | — |
 | [Fluent 2](https://fluentmac.app/) | 25% off | $36.75 · Basic | `BF2026` |
+| [Grai](https://grai.page) | 30% off · first billing cycle · until Nov 30, 2026 | $55.30 / year · Solo Offline; $79 / year regular · Agency Protocol $99.00 / month or $790.00 / year regular | `BF2026` |
 | [MakeMidas](https://makemidas.com/pricing) | Up to 25% more credits · credit packs | $10 · 1,250 credits (was 1,000) · one-time | — |
 | [Mo](https://appsbymo.app/mo/) | 50% off | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% off | — | `BLFCM2026` |
