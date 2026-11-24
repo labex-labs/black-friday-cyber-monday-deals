@@ -359,7 +359,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ShiftPlus](https://shiftplus.app/black-friday/) | 40% off | From $14.40 · lifetime | — |
 | [Shiori](https://shioriapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | 30% off | $9.09 · one-time | `BLACKFRIDAY26` |
-| [Snapperon](https://snapperon.com/) | 50% off | US$1/month for 12 months, US$10 for the first year, or US$19.50 lifetime | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | 50% off · first 12 months, first year or lifetime | US$1.00 / month · first 12 months; US$10.00 / year · first year; US$19.50 · lifetime | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | 50% off | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | 30% off | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | 20% off | $7.99 · one-time | — |
