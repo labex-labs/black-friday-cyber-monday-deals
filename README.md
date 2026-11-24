@@ -202,7 +202,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Kavel](https://www.kavel.ai/pricing) | 2× credits | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | 25% off | — | — |
 | [KeyScreen](https://keyscreen.app/) | 30% off | $4.19 · one-time | `KEYSCREEN30` |
-| [Keystro](https://keystro.app) | 30% off · one-time | Standard $4.89 · Extended $9.80 · Team $27.30 · one-time | `BFKEYSTRO26` |
+| [Keystro](https://keystro.app/#pricing) | 30% off · one-time licenses | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | 50% off | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | 40% off | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | 30% off | — | `BF2026` |
