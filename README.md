@@ -117,6 +117,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [TablePro](https://tablepro.app/black-friday) | 40% off | $47.40 · one-time | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
 | [TeaGo](https://teago.artsvit.com/) | About 20% off · through Nov 30, 2026 (PT); 500 redemptions | US$3.99 · single-user lifetime | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Termalin](https://termal.in/pricing/) | 16 months for the price of 12 · yearly Pro, plus 100 GB cloud storage · Nov 23–Dec 1, 2026 | $96.00 · yearly Pro, 16 months instead of 12 | — |
 | [Toplify](https://toplify.app) | $40 off · Nov 15–Dec 1, 2026 | $49.99 USD · lifetime (was $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% off | $51.75 · one-time | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% off | $35.00 · lifetime | — |
