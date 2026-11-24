@@ -288,7 +288,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Chronoid](https://www.chronoid.app/pricing) | 50% off | $74.50 · lifetime | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% off | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | See offer | — | — |
-| [Clappia](https://www.clappia.com/black-friday-offer) | 50% off all annual plans | — | `BLACKFRD` |
+| [Clappia](https://www.clappia.com/black-friday-offer) | 50% off · annual plans, new customers · through Dec 31, 2026 | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | 30% off | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | 30% off | $20.99 · one-time | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | 35% off | $15.59 / year | `BF2026` |
