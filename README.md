@@ -163,7 +163,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [SciFig](https://scifig.ai/black-friday) | Extra 20% off | $80.00 / year · Starter, first year | — |
 | [ScribeToAny](https://scribetoany.com/) | 30% off | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | See offer | — | — |
-| [Skillry](https://skillry.dev/pricing) | 50% off Pro; $80 off lifetime | $9.99 / month · first month; $79 / year · first year; $169 · lifetime | — |
+| [Skillry](https://skillry.dev/pricing) | 50% off · first month or year of Pro; $80 off Founding Lifetime | $9.99 / month · first month; $79.00 / year · first year; $169.00 · lifetime | — |
 | [Slashspace](https://www.slashspace.ai/) | 51% off | $122.01 · lifetime | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 30% off | $69.30 · lifetime | — |
 | [Supacite](https://supacite.com/) | Lifetime offer | $89.00 early tier; $129.00 later · lifetime | `CITEBF` |
