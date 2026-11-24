@@ -451,6 +451,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
 | [Appfigures](https://appfigures.com/platform/pricing) | 50% off · 12 months, up to $200 off per month | — | `BF2650` |
+| [AppRankHero](https://apprankhero.com/pricing?utm_source=gh-labex-labs&utm_medium=deal&utm_campaign=black_friday_2026) | 30% off · first year of annual Pro and Studio | $34.99 / year · Pro, first year | `BLACKFRIDAY30` |
 | [ASO Atlas](https://asoatlas.com/) | 30% off · first year of the annual plan | $70.00 / year · first year | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
