@@ -318,6 +318,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [AppsByMo](https://appsbymo.app/) | 50% off | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% off | $30.00 · one-time | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% off | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | Black Friday sale · through Dec 2, 2026 | $19.99 · one-time | — |
 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% off Lifetime (regularly $14.99 USD) | $7.49 USD · lifetime | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% off | $74.50 · lifetime | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% off | — | `BLACKFRIDAY` |
@@ -329,7 +330,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 30% off | $20.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 50% off | €19.99 · lifetime | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 50% off | $24.50 · one-time | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | 50% off | $14.50 · one-time | — |
+| [Crisp](https://crispvideo.app/pricing/) | Black Friday sale · through Dec 2, 2026 | $9.99 · one-time | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% off | $14.50 · one-time | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% off Pro | $18.90 · lifetime | `BLACKFRIDAY2026` |
 | [datacheck.cc](https://datacheck.cc/en/pricing) | 30% off · one-time packs and perpetual licenses | From HK$81.20 · one-time | — |
@@ -338,7 +339,6 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Deletti](https://deletti.app/#black-friday) | 50% off Single Lifetime (regularly $17.99 USD) | $8.99 USD · lifetime | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
 | [DiskMate](https://diskmate.app) | 50% off | $5.00 · lifetime | — |
-| [Docket](https://docketseo.app/) | 50% off | $29.50 · one-time | — |
 | [DockFlow](https://dockflowapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Up to 50% off | From $12.99 · lifetime | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 30% off | $34.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
@@ -381,7 +381,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% off | — | — |
 | [Noteline](https://noteline.io/pricing) | 50% off | — | — |
 | [OkayTab](https://okaytab.app/) | 30% off · first billing period | $2.51 · first month | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | 50% off | $24.50 · one-time | — |
+| [Outlier](https://outlier.host/pricing/) | Black Friday sale · through Dec 2, 2026 | $16.99 · one-time | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% off · first year or first 3 months | From US$50.00 / year · first year; from US$5.00 / month · first 3 months | — |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
