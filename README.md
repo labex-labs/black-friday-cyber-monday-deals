@@ -101,6 +101,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Layerwise](https://layerwise.app/pricing) | 20% off | $12.00 / month | `BLACKFRIDAY2026` |
 | [Lidnight](https://lidnight.app/en/buy/) | 50% off | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% off | $9.00 · one-time | `PARCSEBLACKFRIDAY` |
+| [Moordeck](https://moordeck.com/pricing) | 25% off Pro/Team Annual first year (renews at $108/$348) + Founding Solo Lifetime $79 (first 200 seats) · macOS Apple Silicon & Linux x64 (Windows coming soon) · Nov 24–30, 2026 (PT) | $81.00 / year · Pro, first year ($108/yr after); $261.00 / year · Team, first year ($348/yr after, 5 seats); $79.00 · Solo lifetime | `BF2026` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 60% off | $3.82 · one-time | — |
 | [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | About 20% off · through Nov 30, 2026 (PT); 500 redemptions | US$4.79 · single-user lifetime | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% off · first 3 months | From $24.50 / month · first 3 months | `BLACKFRIDAY50` |
