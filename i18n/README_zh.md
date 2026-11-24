@@ -150,7 +150,7 @@
 | [Blip AI Pro](https://www.blipai.app/) | 立减 50% · 首年 | — | — |
 | [BoltAI](https://boltai.com/pricing) | 立减 40% | $239.40 · 终身版 | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 立减 90% | $63.00 · 终身版 | — |
-| [Enconvo](https://enconvo.com/) | 立减 30% | — | — |
+| [Enconvo](https://enconvo.com/pricing) | 立减 30% · Lifetime 及 Cloud 首次付款 · 2026 年 11 月 20 日至 12 月 7 日 | $41.30 · Standard, 终身版 | — |
 | [Fluent 2](https://fluentmac.app/) | 立减 25% | $36.75 · Basic | `BF2026` |
 | [Mo](https://appsbymo.app/mo/) | 立减 50% | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 立减 30% | — | `BLFCM2026` |
