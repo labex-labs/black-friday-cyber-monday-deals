@@ -207,7 +207,7 @@
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% 할인 | — | `BF2026` |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% 할인 | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% 할인 | — | — |
-| [Oil Studio](https://studio.oiloil.org/en/#price) | 20% 할인 | $39.00 · 일회성 결제 | — |
+| [Oil Studio](https://studio.oiloil.org/en/) | 20% 할인 ($39 출시가에서 추가 20%, 정가 $49) | $31.20 · 일회성 결제 (Mac 2대) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% 할인 | $3.99 · 일회성 결제 | — |
 | [Picmal](https://picmal.app/pricing) | 50% 할인 | 최저 $14.50 · 1 Mac | `BLACKFRIDAY` |
 | [Pimosa](https://pimosa.app) | 40% 할인 · Personal 및 Plus | Personal $17.40 · Plus $29.40 · 일회성 결제 | `BLACKFRIDAY40` |

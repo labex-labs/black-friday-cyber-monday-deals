@@ -207,7 +207,7 @@ Aprenda Linux, DevOps, cibersegurança e tecnologias de nuvem com laboratórios 
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% de desconto | — | `BF2026` |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% de desconto | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% de desconto | — | — |
-| [Oil Studio](https://studio.oiloil.org/en/#price) | 20% de desconto | $39.00 · pagamento único | — |
+| [Oil Studio](https://studio.oiloil.org/en/) | 20% de desconto (extra sobre $39; reg. $49) | $31.20 · pagamento único (2 Macs) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% de desconto | $3.99 · pagamento único | — |
 | [Picmal](https://picmal.app/pricing) | 50% de desconto | A partir de $14.50 · 1 Mac | `BLACKFRIDAY` |
 | [Pimosa](https://pimosa.app) | 40% de desconto · Personal e Plus | Personal $17.40 · Plus $29.40 · pagamento único | `BLACKFRIDAY40` |
