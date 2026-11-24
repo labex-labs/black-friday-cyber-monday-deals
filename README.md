@@ -508,6 +508,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Semrush](https://semrush.sjv.io/e4x4N1) | Up to 17% off | — | — |
 | [Sender](https://www.sender.net/pricing/) | See offer | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 30% off | From $143.50 / year | `BLACKFRIDAY` |
+| [ShiftApp](https://shiftapp.com/black-friday) | 88% off · first 8 months, new Essential monthly orders · through Dec 12, 2026 | From $2.88 USD / month for 8 months, then $24 / month (before tax) | `BLACKFRIDAY2026` (auto-applied) |
 | [Sponsonizer](https://sponsonizer.com/) | 50% off | $49.50 / year | `BF2026` |
 | [Starview](https://indiegoodies.com/starview) | 50% off | $44.50 · lifetime | `INDIEGOODIESBF26` |
 | [SwiftERM](https://swifterm.com/black-friday/) | 40% off | — | `BLACKFRIDAY26` |
