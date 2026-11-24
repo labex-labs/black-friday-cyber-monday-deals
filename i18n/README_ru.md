@@ -207,7 +207,7 @@
 | [MingCute Weather](https://mgcweather.framer.website/) | Скидка 30% | — | `BF2026` |
 | [Nano Banana](https://nanobanana.org/black-friday) | Скидка 50% | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | Скидка 20% | — | — |
-| [Oil Studio](https://studio.oiloil.org/en/#price) | Скидка 20% | $39.00 · разовый платёж | — |
+| [Oil Studio](https://studio.oiloil.org/en/) | Скидка 20% (доп. к цене запуска $39; обычная $49) | $31.20 · разовый платёж (2 Mac) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | Скидка 43% | $3.99 · разовый платёж | — |
 | [Picmal](https://picmal.app/pricing) | Скидка 50% | От $14.50 · 1 Mac | `BLACKFRIDAY` |
 | [Pimosa](https://pimosa.app) | Скидка 40% · Personal и Plus | Personal $17.40 · Plus $29.40 · разовый платёж | `BLACKFRIDAY40` |
