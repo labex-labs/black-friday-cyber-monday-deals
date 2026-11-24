@@ -150,7 +150,7 @@
 | [Blip AI Pro](https://www.blipai.app/) | 50% 할인 · 첫해 | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% 할인 | $239.40 · 평생 이용 | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% 할인 | $63.00 · 평생 이용 | — |
-| [Enconvo](https://enconvo.com/) | 30% 할인 | — | — |
+| [Enconvo](https://enconvo.com/pricing) | 30% 할인 · Lifetime 및 Cloud 첫 결제 · 2026년 11월 20일~12월 7일 | $41.30 · Standard, 평생 이용 | — |
 | [Fluent 2](https://fluentmac.app/) | 25% 할인 | $36.75 · Basic | `BF2026` |
 | [Mo](https://appsbymo.app/mo/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% 할인 | — | `BLFCM2026` |
