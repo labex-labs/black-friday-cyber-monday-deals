@@ -401,7 +401,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
-| [Appfigures](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=labex) | 50% off · 12 months (Nov 23 - Nov 30, 2026) | See upgrade page (up to $200/mo off) | `BF2650` |
+| [Appfigures](https://appfigures.com/platform/pricing) | 50% off · 12 months, up to $200 off per month | — | `BF2650` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
