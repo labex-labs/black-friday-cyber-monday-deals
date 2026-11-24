@@ -182,7 +182,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
-| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 50% bonus credits on non-expiring packs (~33% lower cost per credit); up to 300 extra credits in eligible first-month subscriptions; Nov 17–27 (11:59 PM PT) | From $9.90 USD · one-time (50 → 75 credits); from $19.90 USD / month (180 → 250 first month) | — |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 50% bonus credits · one-time packs; up to 300 bonus credits · eligible monthly plans, first month | From US$9.90 · one-time; from US$19.90 / month · first month | — |
 | [Atmos](https://atmos.style/) | Up to 50% off | $79.50 · lifetime | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% off | $9.99 · lifetime | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 50% off | — | — |
