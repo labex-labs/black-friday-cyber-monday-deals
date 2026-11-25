@@ -397,6 +397,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | 50% off | — | — |
 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | 30% off | $27.99 · one-time | `MACPLUSBLACKFRIDAY26` |
 | [Ratio](https://useratio.app/) | 30% off | From $13.99 · one-time | `BLACKFRIDAY26` |
+| [Recurrr](https://recurrr.com/pricing) | 58% off · yearly plan, kept on every renewal, through Dec 31, 2026 | $45.00 / year | — |
 | [Roomtape](https://extensions.loopspec.com/roomtape) | 69% off | $9.00 · one-time | — |
 | [SaveMode](https://indiegoodies.com/savemode) | 50% off | — | `INDIEGOODIESBF26` |
 | [Scrubs](https://getscrubs.app/) | 40% off | $8.99 · one-time | `BLACKFRIDAY26` |
