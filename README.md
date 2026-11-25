@@ -215,6 +215,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 66% off | $10.20 · lifetime | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 40% off | $6.00 · one-time | — |
 | [FaceScreen](https://facescreen.app/) | 30% off | $4.19 · one-time | `FACESCREEN30` |
+| [FireCut](https://firecut.ai/pricing/all/) | 50% off · new annual plans, no code needed, through Nov 30, 2026 | $29.50 / month · Max, billed yearly ($17 / month · Pro) | — |
 | [FixImage](https://fiximage.net/black-friday) | 2× credits · first subscription term and subscriber packs, through Dec 1, 2026 (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | Up to 50% off | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | 50% off | — | `BLACKFRIDAY2026LT` |
