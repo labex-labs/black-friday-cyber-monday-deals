@@ -521,6 +521,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% off | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% off | — | `BF2026` |
 | [VibeView](https://vibeview.io/) | Up to 30% off | — | — |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=labex-labs) | 20% off first year of annual plans (Basic $250 → $200, Business $500 → $400/seat) | $200 Basic · $400 per seat Business | — |
 
 ## Contributing
 
