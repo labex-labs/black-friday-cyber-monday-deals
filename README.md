@@ -188,6 +188,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Vinaa](https://www.vinaa.ai/) | 44% off | $39.00 · lifetime | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% off | $89.64 / year · Pro | — |
 | [Voibe](https://www.getvoibe.com/pricing/) | 25% off · Dictation and Work plans, through Nov 30, 2026 | $149.25 · Dictation lifetime; $299.25 · Work lifetime | `BFCM26` |
+| [Whizi](https://whizi.io/pricing/?utm_source=labex-bf&utm_medium=deal-list&utm_campaign=bf2026) | 30% off · first year of annual plans, through Dec 24, 2026 (PT) | $167.99 / first year · Pro (regular $239.99) | — |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% off | From $27.30 / month · billed yearly, first year | `BLACKFRIDAY2026` |
 | [Wovo](https://wovo.one/#pricing) | 50% off · Pro & Max yearly | $72 / year · Pro; $174 / year · Max | — |
 
