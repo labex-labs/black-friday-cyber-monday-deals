@@ -98,6 +98,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [HackUtilities](https://hackutilities.com/) | 50% off | — | `BFCM2026` |
 | [JuxtaCode](https://juxtacode.app/black-friday/) | 40% off | $24.00 · one-time | `BLACKFRIDAY26` |
 | [Karve](https://karve.dev/pricing/) | 75% off | $9.99 · one-time | — |
+| [KittyTrace](https://kittytrace.com/) | 34% off · through Dec 1, 2026 | $19.00 · one-time | `BF2026` |
 | [Layerwise](https://layerwise.app/pricing) | 20% off | $12.00 / month | `BLACKFRIDAY2026` |
 | [Lidnight](https://lidnight.app/en/buy/) | 50% off | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% off | $9.00 · one-time | `PARCSEBLACKFRIDAY` |
