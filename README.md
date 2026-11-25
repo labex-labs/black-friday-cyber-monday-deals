@@ -395,6 +395,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PixelVault](https://pixelvault.dev/blackfriday/) | 50% off | — | `BLACKFRIDAY2026` |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | 50% off | $29.99 · lifetime | — |
 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | 50% off | — | — |
+| [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | $14 one-time (regular $19) through Nov 30 | $14 · one-time | — |
 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | 30% off | $27.99 · one-time | `MACPLUSBLACKFRIDAY26` |
 | [Ratio](https://useratio.app/) | 30% off | From $13.99 · one-time | `BLACKFRIDAY26` |
 | [Roomtape](https://extensions.loopspec.com/roomtape) | 69% off | $9.00 · one-time | — |
