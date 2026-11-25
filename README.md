@@ -190,6 +190,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Voibe](https://www.getvoibe.com/pricing/) | 25% off · Dictation and Work plans, through Nov 30, 2026 | $149.25 · Dictation lifetime; $299.25 · Work lifetime | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% off | From $27.30 / month · billed yearly, first year | `BLACKFRIDAY2026` |
 | [Wovo](https://wovo.one/#pricing) | 50% off · Pro & Max yearly | $72 / year · Pro; $174 / year · Max | — |
+| [Zeptap](https://zeptap.com/pricing) | 50% off · every plan, through Dec 1, 2026 | $99 once · Lifetime; $199 once · Lifetime Plus (up to 5 iPhones); $25 / month | — |
 
 <a name="design"></a>
 
