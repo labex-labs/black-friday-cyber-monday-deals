@@ -292,6 +292,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | Up to 70% off | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 40% off | — | `WIZARDS40` |
 | [RapidForm](https://rapidform.com/lifetime) | Lifetime offer | From $129.00 · lifetime | — |
+| [ReUI](https://reui.io/pricing?utm_source=labex-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | 30% off · every license, no code needed, through Nov 30, 2026 | — | — |
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 50% off | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | See offer | — | — |
 | [ShipAhead](https://shipahe.ad/) | 50% off | — | — |
