@@ -85,6 +85,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Akev](https://akev.dev/pricing) | 30% off | $34.30 · one-time, Pro licence | `BLACKFRIDAY` |
 | [APIKO](https://apiko.app/) | 10% bonus credits · paid top-ups, through Nov 27, 2026 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% off | — | `BLACKFRIDAY` |
+| [Backpack for Laravel](https://backpackforlaravel.com/black-friday) | 50% off · first year, through Dec 1, 2026 | €99.50 · first year, Gold single project | `BF50FIRSTYEAR` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off | $23.40 · lifetime | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
