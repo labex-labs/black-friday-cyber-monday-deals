@@ -161,6 +161,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [AI Fiesta](https://aifiesta.ai/) | See offer | — | — |
 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | 50% off | $49.50 · lifetime | `BLACKFRIDAY` |
+| [AtAt](https://atatapp.com/black-friday) | 47% off · Lifetime; 34% off · first year · Nov 24–Dec 15, 2026 | $89.00 · lifetime; $39.00 / year · first year | — |
 | [Blip AI Pro](https://www.blipai.app/) | 50% off · first year | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% off | $239.40 · lifetime | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% off | $63.00 · lifetime | — |
