@@ -415,6 +415,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Sum](https://sumtranscribe.com/pricing) | 50% off · first month or first year of Sum Pro (Web), through Nov 30 (US Eastern Time) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% off | $39.50 · lifetime | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 30% off | $34.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
+| [Switchy](https://getswitchy.app/black-friday) | 50% off | $2.49 · one-time | `BLACKFRIDAY50` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 30% off | $27.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [Tabhive](https://www.tabhive.app/) | 40% off | $42.00 · license | `BF2026` |
 | [Tasks](https://apps.apple.com/app/apple-store/id1502903102?mt=8) | Lifetime offer | $29.99 · lifetime | — |
