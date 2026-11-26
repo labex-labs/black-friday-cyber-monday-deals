@@ -377,6 +377,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% off | — | `BFCM2026` |
 | [MeetMic](https://meetmic.app/buy) | 55% off · lifetime · Nov 23–Dec 10, 2026 | $26.55 · lifetime | `BF26` |
 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% off | $29.99 · lifetime | — |
+| [Mole](https://mole.fit/?utm_source=labex&utm_campaign=bf2026) | 20% off · Mac or Windows · Nov 25 - Nov 30, 2026 | $15.20 · one-time | — |
 | [MouseUp](https://mouseup.app/pricing) | 50% off | $4.00 · lifetime | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 30% off | $27.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 35% off | — | `BFCM2026` |
