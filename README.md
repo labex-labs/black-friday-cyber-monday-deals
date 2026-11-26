@@ -398,6 +398,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | 30% off | $27.99 · one-time | `MACPLUSBLACKFRIDAY26` |
 | [Ratio](https://useratio.app/) | 30% off | From $13.99 · one-time | `BLACKFRIDAY26` |
 | [Roomtape](https://extensions.loopspec.com/roomtape) | 69% off | $9.00 · one-time | — |
+| [RouteX](https://apps.apple.com/app/id6753095851) | 33% off Lifetime (regularly $14.99) or free claim · Nov 26–Nov 30, 2026 | $9.99 · lifetime | — |
 | [SaveMode](https://indiegoodies.com/savemode) | 50% off | — | `INDIEGOODIESBF26` |
 | [Scrubs](https://getscrubs.app/) | 40% off | $8.99 · one-time | `BLACKFRIDAY26` |
 | [Scry](https://appsbymo.app/scry/) | 50% off | $12.00 · one-time | `BLACKFRIDAY` |
