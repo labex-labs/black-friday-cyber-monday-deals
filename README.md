@@ -521,6 +521,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% off | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% off | — | `BF2026` |
 | [VibeView](https://vibeview.io/) | Up to 30% off | — | — |
+| [ZeroRank](https://zerorank.ai/pricing) | 28% off first 3 monthly payments, or about 35% off year one vs. standard annual pricing; ends Nov 30, 2026, 11:59 p.m. Europe/Tirane | $588 / year · Starter, first year; renews at $912/year | — |
 
 ## Contributing
 
