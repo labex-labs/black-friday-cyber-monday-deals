@@ -468,6 +468,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Directify](https://directify.app/founders) | 56% off | $599.00 / 2 years · Growth | — |
 | [Directory Ideas](https://directoryideas.ai/) | 33% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% off | — | — |
+| [Exit Loop](https://www.exitloop.app/black-friday) | 50% off · first year of the yearly plan, new customers · ends Dec 1, 2026 | $74.50 / year · first year | `BLACKFRIDAY50` |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
