@@ -457,6 +457,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [BizPeel](https://bizpeel.com/pricing) | 50% off · first month; 20% off · first year | From $14.95 / month · Starter, first month | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 · one-time, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
+| [BugSmash](https://bugsmash.io/pricing?utm_source=labex&utm_medium=deal-list&utm_campaign=bf2026) | 50% off · first year of yearly plans · Nov 25–30, 2026 | From $114.00 / year · Starter, first year | `BLACKFRIDAY50` |
 | [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 87% off · 11-product lifetime bundle | $129.00 · one-time | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% off · lifetime | $59.00 · one-time, Lifetime | — |
