@@ -397,6 +397,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | 50% off | — | — |
 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | 30% off | $27.99 · one-time | `MACPLUSBLACKFRIDAY26` |
 | [Ratio](https://useratio.app/) | 30% off | From $13.99 · one-time | `BLACKFRIDAY26` |
+| [RecapOne](https://recapone.com/blackfriday) | 35% off forever · Monthly and Annual; $200 off Lifetime · new customers · Nov 25–Dec 1, 2026 | $6.49 / month; $64.99 / year; $199.00 · lifetime | `BF2026`; `BFLTD` (Lifetime) |
 | [Roomtape](https://extensions.loopspec.com/roomtape) | 69% off | $9.00 · one-time | — |
 | [SaveMode](https://indiegoodies.com/savemode) | 50% off | — | `INDIEGOODIESBF26` |
 | [Scrubs](https://getscrubs.app/) | 40% off | $8.99 · one-time | `BLACKFRIDAY26` |
@@ -469,6 +470,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Directory Ideas](https://directoryideas.ai/) | 33% off · lifetime | $59.00 · one-time, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% off | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
+| [Fundalyze](https://fundalyze.ai/blackfriday) | 35% off forever · Monthly and Annual; $1,000 off Lifetime · new customers · Nov 25–Dec 1, 2026 | $32.49 / month; $324.99 / year; $999.99 · lifetime | `BF2026`; `BFLTD1000` (Lifetime) |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
 | [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% off · first year of annual Launch, Growth or Scale, new customers · trial signup required | US$1,072.80 / year · Growth, first year | `BF2026` |
