@@ -389,6 +389,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
 | [Paste](https://pasteapp.io/black-friday-2026) | 50% off · first year | $14.99 / year · first year | `BLACKFRIDAY2026` |
+| [PasteNotch](https://pastenotch.com/black-friday) | 50% off | $2.49 · one-time | `BLACKFRIDAY50` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | 30% off | $34.99 · lifetime | — |
 | [Perch](https://perch.run/black-friday) | 40% off | $17.40 · lifetime | `BLACKFRIDAY2026` |
