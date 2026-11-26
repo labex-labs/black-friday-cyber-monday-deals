@@ -480,6 +480,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% off | $24.50 / year · Featured listing | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 months free | $37.50 / month · billed yearly | — |
+| [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=labex-labs&utm_medium=referral&utm_campaign=bf2026) | 60% off · first payment (first month on monthly, first year on yearly), first 100 redemptions · until Dec 2, 2026 | $139.20 / year · Starter, first year | `BF2026` |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 30% off | $147.00 / year | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | Up to 60% off | From $19.00 / month · billed yearly | — |
 | [MailCheap](https://mailcheap.ai/pricing) | See offer | — | — |
