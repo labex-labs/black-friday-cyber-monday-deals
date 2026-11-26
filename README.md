@@ -106,6 +106,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% off · first 3 months | From $24.50 / month · first 3 months | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% off | $4.69 · lifetime | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% off | $62.30 · Standard | `BF2026` |
+| [PublicAPIs.io](https://publicapis.io/black-friday) | 50% off | $49.50 · one-time Pro listing | `BLACKFRIDAY50` |
 | [Pulsetic](https://pulsetic.com/black-friday) | 35% off · first payment · Nov 16–Dec 3, 2026 | $58.50 / year · Solo, first year | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% off | $44.50 · one-time | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% off | $4.99 · one-time | — |
