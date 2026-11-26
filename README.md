@@ -387,6 +387,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% off · first year or first 3 months | From US$50.00 / year · first year; from US$5.00 / month · first 3 months | — |
 | [Outlier](https://outlier.host/pricing/) | Black Friday sale · through Dec 2, 2026 | $16.99 · one-time | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
+| [PaperMac](https://getpaper.sh/mac/?ref=labex) | 50% off | $19.50 · Pro 27, one-time; $49.50 · Lifetime | `BF2026` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
 | [Paste](https://pasteapp.io/black-friday-2026) | 50% off · first year | $14.99 / year · first year | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
