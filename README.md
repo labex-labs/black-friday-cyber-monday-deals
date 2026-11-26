@@ -519,6 +519,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Unspam.email](https://unspam.email/black-friday) | 35% off · first invoice · Nov 16–Dec 1, 2026 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% off | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% off | — | `BFCM72` |
+| [utobo Email](https://utobo.com/email/pricing) | 50% off · annual plans, first year · new customers only · Nov 21–30, 2026 | From US$43 / first year · Starter (regularly US$86 / year); renewals at standard rate | `BFF50` |
 | [Vemetric](https://vemetric.com/) | 30% off | — | `BF2026` |
 | [VibeView](https://vibeview.io/) | Up to 30% off | — | — |
 
