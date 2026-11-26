@@ -81,6 +81,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 50% off | $99.00 · lifetime | `FCBF26` |
+| [1DevTool](https://1devtool.com/pricing) | 50% off · through Nov 29, 2026 | $14.50 · one-time Pro licence | `BFDEALS50` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% off | $15.00 · lifetime | `Sale2026` |
 | [Akev](https://akev.dev/pricing) | 30% off | $34.30 · one-time, Pro licence | `BLACKFRIDAY` |
 | [APIKO](https://apiko.app/) | 10% bonus credits · paid top-ups, through Nov 27, 2026 (PT) | — | — |
@@ -146,6 +147,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Karma.Domains](https://karma.domains/en/black-friday/) | 50% off | — | — |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans · 50% off first 3 months on monthly plans · new customers | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% off | — | — |
+| [Server Compass](https://servercompass.app/) | 50% off · through Nov 29, 2026 | $14.50 · one-time Pro licence | `BFDEALS50` |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
 | [Static.app](https://static.app/black-friday) | 35% off · first payment · Nov 16–Dec 1, 2026 | $39.00 / year · Starter, first year | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
@@ -200,6 +202,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
+| [1DesignTool](https://1designtool.com/) | 50% off · through Nov 29, 2026 | $14.50 · one-time Pro licence | `BFDEALS50` |
 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 50% bonus credits · one-time packs; up to 300 bonus credits · eligible monthly plans, first month | From US$9.90 · one-time; from US$19.90 / month · first month | — |
 | [Atmos](https://atmos.style/) | Up to 50% off | $79.50 · lifetime | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% off | $9.99 · lifetime | — |
@@ -411,6 +414,8 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Spacepal](https://getspacepal.com/black-friday/) | 20% off | $7.99 · one-time | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | See offer | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 30% off | $5.59 · lifetime | `MACPLUSBLACKFRIDAY26` |
+| [Stoic Browser](https://stoicbrowser.com/) | 50% off · through Nov 29, 2026 | $14.50 · one-time Pro licence | `BFDEALS50` |
+| [StoicSoft Complete · all 12 apps](https://stoicsoft.com/pricing) | 30% off · through Nov 29, 2026 | $139.30 · one-time bundle | `BFDEALSBUNDLE30` |
 | [SubManager](https://submanager.app/) | 50% off | $4.99 · lifetime | — |
 | [Sum](https://sumtranscribe.com/pricing) | 50% off · first month or first year of Sum Pro (Web), through Nov 30 (US Eastern Time) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% off | $39.50 · lifetime | `SIDEBARBF50` |
