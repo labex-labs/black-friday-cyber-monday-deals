@@ -393,6 +393,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PeakHour](https://peakhour.app/) | 30% off | $34.99 · lifetime | — |
 | [Perch](https://perch.run/black-friday) | 40% off | $17.40 · lifetime | `BLACKFRIDAY2026` |
 | [PixelVault](https://pixelvault.dev/blackfriday/) | 50% off | — | `BLACKFRIDAY2026` |
+| [PLANE.DEALS](https://plane.deals/black-friday) | First month free on monthly plans; 25% off the first year of annual plans · renews at the regular price · through Nov 30, 2026 (PT) | $0.00 / month · first month (Pro or Elite); $36.75 / year · first year Pro, $111.75 / year · first year Elite | `BFMONTHFREE` / `BLACKFRIDAY25` |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | 50% off | $29.99 · lifetime | — |
 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | 50% off | — | — |
 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | 30% off | $27.99 · one-time | `MACPLUSBLACKFRIDAY26` |
