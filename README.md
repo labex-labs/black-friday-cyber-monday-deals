@@ -484,6 +484,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | Up to 60% off | From $19.00 / month · billed yearly | — |
 | [MailCheap](https://mailcheap.ai/pricing) | See offer | — | — |
 | [Mailtea](https://mailtea.app/pricing#black-friday) | 3 months free · new customers, first 100 redemptions | $0.00 · Pro 25K for 3 months, then $16.00 / month | `BLACKFRIDAY26` |
+| [Notra](https://www.usenotra.com/pricing) | 25% off · first 6 months, monthly billing, new customers · until Dec 2, 2026 | From $75.00 / month · Starter, first 6 months | — |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% off · annual | $144.00 / year · Standard, first year | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% off | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | See offer | — | — |
