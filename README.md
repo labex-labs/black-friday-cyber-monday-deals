@@ -131,6 +131,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
+| [Beam](https://www.beam.cloud/pricing) | 2x credits · purchases matched 1:1, up to $100 free · Nov 27–Nov 30, 2026 | — | — |
 | [BlazeHosting](https://blazehosting.com.br/) | 25% off | — | — |
 | [ChemiCloud](https://chemicloud.com/wordpress-hosting) | Up to 88% off | From $1.49 / month · 36-month billing | — |
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 80% off · first 2 months | From $2.20 / month · first 2 months | `BFCM802` |
