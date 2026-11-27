@@ -85,6 +85,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Akev](https://akev.dev/pricing) | 30% off | $34.30 · one-time, Pro licence | `BLACKFRIDAY` |
 | [APIKO](https://apiko.app/) | 10% bonus credits · paid top-ups, through Nov 27, 2026 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% off | — | `BLACKFRIDAY` |
+| [Bordfeed](https://bordfeed.com/black-friday) | 50% off first 3 months · new subscriptions, through Dec 4, 2026 (CET) | $39.50 / month · Pro, first 3 months | `BFCM50` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off | $23.40 · lifetime | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
