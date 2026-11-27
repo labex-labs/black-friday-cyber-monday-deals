@@ -369,6 +369,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Iruka](https://iruka.sh/black-friday) | 30% off | $13.99 · one-time | `BF30` |
 | [KeyboardStack](https://keyboardstack.com/) | 50% off | $14.99 · lifetime | — |
 | [Kilobat Pro](https://kilobat.app/) | 30% off | $20.30 · one-time | `BLACKFRIDAY30` |
+| [KopiaLens Pro](https://kopialens.com/pricing) | 30% off | $35.00 · lifetime, or $14.00 / year · first year | `BLACKFRIDAY2026` |
 | [KTool](https://ktool.io/pricing) | 17% off | $149.00 · lifetime | — |
 | [LinkShip](https://linkship.net/pricing) | 20% off | From $53.59 / year · first year | `BLACKFRIDAY2026` |
 | [Mac 4 Breakfast](https://www.mac4breakfast.app/) | 50% off | $4.99 · one-time | `BLACKFRIDAY26` |
