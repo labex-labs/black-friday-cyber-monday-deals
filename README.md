@@ -340,6 +340,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Deckloud](https://deckloud.com/black-friday/) | 40% off | $22.99 · lifetime | `BF2026` |
 | [Deletti](https://deletti.app/#black-friday) | 50% off Single Lifetime (regularly $17.99 USD) | $8.99 USD · lifetime | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
+| [Digital Photo Frame](https://digitalphotoframeapp.com/) | 50% off | $9.99 / year | — |
 | [DiskMate](https://diskmate.app) | 50% off | $5.00 · lifetime | — |
 | [DockFlow](https://dockflowapp.io/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Up to 50% off | From $12.99 · lifetime | — |
