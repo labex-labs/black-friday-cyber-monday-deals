@@ -207,6 +207,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Bimg AI](https://bimg.ai/black-friday) | 50% off | — | — |
 | [Bindrik](https://bindrik.com/en) | 43% off | $39.00 · one-time | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 33% off | $19.99 · one-time | — |
+| [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | 50% off Supporter Monthly · Nov 27–30, 2026 · for accounts without an active paid subscription | US$4.50/month for six months, then US$9/month | `BLACKFRIDAY50` |
 | [chordlist](https://apps.apple.com/redeem?ctx=offercodes&id=6798344297&code=BLACKFRIDAY2026) | See offer | €2.99 · one-time; Germany | `BLACKFRIDAY2026` |
 | [Compresto](https://compresto.app/pricing) | 40% off | From $29.40 · lifetime | `BFCM26` |
 | [Cutfac](https://cutfac.com/pricing) | 40% off | From $29.40 · one-time | `BF2026` |
