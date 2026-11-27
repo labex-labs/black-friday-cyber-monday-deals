@@ -111,6 +111,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% off | $4.99 · one-time | — |
 | [SaaScaffold](https://saascaffold.com/pricing) | 50% off · Nov 21–Dec 6, 2026 | $49.00 · one-time | — |
 | [Social Fetch](https://www.socialfetch.dev/black-friday) | 2× credits · first month on new monthly plans, first 3 months on new annual plans, and credit packs | $59.00 · one-time Growth pack, 50,000 credits | — |
+| [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | 40% to 60% off | $1.60 to $2.40 (one-time) | `SCOPE40` / `FIRST10` |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | Up to 50% off | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 50% off | $99.00 · lifetime | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 25% off | $74.25 · one-time | `BLACK_FRIDAY_2026` |
