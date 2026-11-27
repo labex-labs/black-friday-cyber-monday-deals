@@ -173,6 +173,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Nivon](https://nivon.ai/) | 30% off | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | 20% off Basic/Plus; $149 lifetime | $149.00 · lifetime | `BF20` |
 | [PromptClaw](https://vifly.net/) | 50% off | $4.49 · lifetime | — |
+| [Rakazo](https://rakazo.com/black-friday) | 30% off · first year of yearly plans, new subscriptions · Nov 27–30, 2026 | $100.80 / year · Standard, first year | `BLACKFRIDAY30` |
 | [RewriteBar](https://rewritebar.com/) | 50% off | $14.50 · lifetime | `BF2026` |
 | [Rezi](https://www.rezi.ai/pricing) | 70% off · first 3 months | $8.70 / month · first 3 months | `Blackfriday2026` |
 | [Runable](https://runable.com/pricing) | See offer | — | — |
