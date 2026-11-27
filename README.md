@@ -80,6 +80,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
+| [12happy](https://www.12hpy.com/deals/black-friday?utm_source=labex&utm_medium=deal-list&utm_campaign=black-friday-2026) | 3 months free · Pro plan, no card, first 100 accounts, through Dec 1, 2026 (UTC) | $0.00 · Pro for 3 months | `BLACKFRIDAY` |
 | [1bench](https://1bench.dev/black-friday) | 50% off | $99.00 · lifetime | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% off | $15.00 · lifetime | `Sale2026` |
 | [Akev](https://akev.dev/pricing) | 30% off | $34.30 · one-time, Pro licence | `BLACKFRIDAY` |
