@@ -148,6 +148,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% off | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | See offer | — | — |
 | [Static.app](https://static.app/black-friday) | 35% off · first payment · Nov 16–Dec 1, 2026 | $39.00 / year · Starter, first year | `BLACKFRIDAY35` |
+| [Staxa](https://staxa.dev/#pricing) | 50% off · first 3 months · Starter or Growth · new subscriptions · Nov 27–Nov 30, 2026 | $24.50 / month · Starter, first 3 months | `STAXABF50` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Up to 60% off | — | — |
 
 <a name="ai"></a>
