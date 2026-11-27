@@ -387,7 +387,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% off · first year or first 3 months | From US$50.00 / year · first year; from US$5.00 / month · first 3 months | — |
 | [Outlier](https://outlier.host/pricing/) | Black Friday sale · through Dec 2, 2026 | $16.99 · one-time | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
-| [Pake](https://pake.run/?utm_source=labex&utm_campaign=bf2026) | 20% off · Mac, Windows, Linux · Nov 25 - Dec 15, 2026 | $15.20 · one-time | — |
+| [Pake](https://pake.run/?utm_source=labex&utm_campaign=bf2026) | 20% off · Mac, Windows, Linux · Nov 25 - Nov 30, 2026 | $15.20 · one-time | — |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
 | [Paste](https://pasteapp.io/black-friday-2026) | 50% off · first year | $14.99 / year · first year | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
@@ -438,7 +438,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Wishbar](https://wishbar.app/black-friday) | 50% off | $19.00 · one-time | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 35% off | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 50% off | $49.99 · lifetime | — |
-| [Yado](https://yado.house/?utm_source=labex&utm_campaign=bf2026) | 20% off · Mac · Nov 25 - Dec 30, 2026 | $15.20 · one-time | — |
+| [Yado](https://yado.house/?utm_source=labex&utm_campaign=bf2026) | 20% off · Mac · Nov 25 - Nov 30, 2026 | $15.20 · one-time | — |
 | [Yonder](https://appsbymo.app/yonder/) | 50% off | — | `BLACKFRIDAY` |
 | [ZxClip](https://zxclip.com/) | 70% off | $24.00 · lifetime | — |
 
