@@ -316,6 +316,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | 30% off | $41.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | 30% off | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
+| [Aloud](https://aloudapp.app/black-friday/) | 30% off | $13.30 · one-time | `BF30` |
 | [AntShot](https://antshot.com/) | 35% off | $25.35 · lifetime | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | 50% off | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% off | $30.00 · one-time | `BLACKFRIDAY26` |
