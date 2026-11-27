@@ -353,6 +353,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | 50% off | $29.99 · lifetime | — |
 | [ExtraBar](https://extrabar.app/) | 50% off | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | 50% off | €19.99 · lifetime | `BLACK2026FRIDAY50` |
+| [Exhibit](https://chatexhibit.me) | 30% off | Personal $13.99 / Firm $41.30 · one-time | `EXHIBITBF30` |
 | [Fadeclock](https://fadeclock.app/#price) | 50% off · through Nov 30, 2026 (PT) | $6.00 · one-time | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 50% off | $14.99 · one-time, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 20% off | $31.20 · one-time | `BLACK2026FRIDAY` |
