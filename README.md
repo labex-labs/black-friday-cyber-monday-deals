@@ -87,7 +87,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Atelier](https://appsbymo.app/atelier/) | 50% off | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off | $23.40 · lifetime | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% off | — | `BLACKFRIDAY2026` |
-| [Context.dev](https://www.context.dev/pricing) | 30% off paid plans for one year; ends Dec 1, 2026 | USD $14/month · Developer (regular $20/month) | No code needed; auto-applied |
+| [Context.dev](https://www.context.dev/pricing) | 30% off new purchases of paid plans for one year; ends Dec 1, 2026 | USD $14/month · Developer (regular $20/month) | No code needed; auto-applied |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% off | $6.99 · standard license | `MACPLUSBLACKFRIDAY26` |
 | [data-peek](https://www.datapeek.dev/pricing) | 40% off · Nov 26–Dec 1, 2026 (PT) | $17.40 / year · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% off | $48.30 · lifetime | `BF2026` |
