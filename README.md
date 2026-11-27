@@ -159,6 +159,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
+| [AGNT](https://agnt.gg/pricing) | 40% off · first year, yearly plans | $174 / year · Pro, first year · Team $594 / year | `BLACKFRIDAY` |
 | [AI Fiesta](https://aifiesta.ai/) | See offer | — | — |
 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | 50% off | $49.50 · lifetime | `BLACKFRIDAY` |
 | [Blip AI Pro](https://www.blipai.app/) | 50% off · first year | — | — |
