@@ -108,6 +108,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Proxyman](https://proxyman.com/pricing) | 30% off | $62.30 · Standard | `BF2026` |
 | [Pulsetic](https://pulsetic.com/black-friday) | 35% off · first payment · Nov 16–Dec 3, 2026 | $58.50 / year · Solo, first year | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% off | $44.50 · one-time | `BFCM2026` |
+| [refer.is](https://refer.is/pricing) | 30% off | $117.60 / year | `BF2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% off | $4.99 · one-time | — |
 | [SaaScaffold](https://saascaffold.com/pricing) | 50% off · Nov 21–Dec 6, 2026 | $49.00 · one-time | — |
 | [Social Fetch](https://www.socialfetch.dev/black-friday) | 2× credits · first month on new monthly plans, first 3 months on new annual plans, and credit packs | $59.00 · one-time Growth pack, 50,000 credits | — |
