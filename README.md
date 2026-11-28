@@ -252,6 +252,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 40% off | $6.00 · one-time | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 50% off | $6.49 · one-time | — |
 | [RocketScribe](https://rocketscribe.ai/) | Up to 60% off | From $69.00 · lifetime | — |
+| [Screen Charm](https://screencharm.com) | 39% off · lifetime | ~$49 · lifetime (regular $149) | — |
 | [ScreenSage Pro](https://screensage.pro/bf2026) | Up to 53% off | $209.90 · lifetime | — |
 | [Screenshot Studio](https://appstorescreenshotstudio.com/) | Up to 50% off subscriptions; 33% off lifetime | — | — |
 | [ScreenSnap Pro](https://www.screensnap.pro/) | 50% off | $19.50 · lifetime | `BLACKFRIDAY` |
