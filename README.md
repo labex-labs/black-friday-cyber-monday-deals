@@ -48,6 +48,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | Approx. 25% off · first year | From $2.99 / month · billed yearly | — |
+| [AdverseMonitor](https://adversemonitor.com/black-friday?utm_source=github&utm_medium=referral&utm_campaign=bfcm2026&utm_content=labex-labs) | 40–60% off · first year for new annual subscribers | From US$234 for the first year · Analyst plan, renews at US$390/year | — |
 | [anon.li](https://anon.li/pricing) | 40% off · first year | $41.69 / year · Plus, first year | `BLKFRI40` |
 | [AppSecD](https://dedsecops.com/pricing) | 30% off · all paid plans | From $14 / month · Starter | — |
 | [Aster Mail](https://astermail.org/) | 50% off | $4.49 / month | — |
