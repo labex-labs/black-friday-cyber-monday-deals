@@ -242,6 +242,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Pimosa](https://pimosa.app) | 40% off · Personal and Plus | Personal $17.40 · Plus $29.40 · one-time | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% off · annual | From $42.48 / year | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% off | $9.80 · one-time | `PRESENTIFY30` |
+| [ProPixel](https://propixel.app) | About 70% off launch price, until 4 Dec 2026 | €5.95 · one-time (standard €19.99) | — |
 | [Rapidemo](https://getrapidemo.com/pricing) | 30% off | $75.60 / year | `BLACKFRIDAY26` |
 | [Reason Studios](https://www.reasonstudios.com/) | Up to 50% off | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 60% off | $17.99 · lifetime | — |
